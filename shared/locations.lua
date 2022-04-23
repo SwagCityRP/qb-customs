@@ -102,7 +102,7 @@ Config.Locations = {
         },
         blip = {
             label = 'Bennys Motorworks',
-            coords = vector3(-41.8942, -1044.1943, 28.6297),
+            coords = vector3(-47.82, -1042.49, 27.67),
             sprite = 72,
             scale = 0.65,
             color = 0,
@@ -128,8 +128,8 @@ Config.Locations = {
         },
         restrictions = { deniedClasses = { 18 } },
         zones = {
-            { coords = vector3(-32.48, -1065.38, 28.4), length = 6.0, width = 4.0, heading = 340.0, minZ = 27.0, maxZ = 31.0 },
-            { coords = vector3(-38.12, -1052.85, 28.4), length = 6.0, width = 4.0, heading = 340.0, minZ = 27.0, maxZ = 31.0 },
+            { coords = vector3(-39.36, -1053.38, 27.4), length = 6.0, width = 4.0, heading = 340.0, minZ = 27.0, maxZ = 31.0 },
+            { coords = vector3(-31.46, -1065.41, 27.4), length = 6.0, width = 4.0, heading = 340.0, minZ = 27.0, maxZ = 31.0 },
         }
     },
 
